@@ -40,6 +40,7 @@ function setOrganizationCode(organizationCode) {
       elementHTML += '</li>'
     })
 
+    elementHTML += '</ul>'
     element.innerHTML = elementHTML
     return;
 }
