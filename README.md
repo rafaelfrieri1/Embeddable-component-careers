@@ -94,36 +94,6 @@ And it should look something like this:
 
 Ingresar imagen aquí
 
-## Installation
+## Source code
 
-The project uses Scala version 2.13.7 and needs sbt to be run. Also, the database runs in a MySQL Docker container, so to run the project we will also need Docker.
-
-First, to set up the key to access the OMDB API key, it is needed to access the `conf/application.conf` file in the project and change the value `"OMDB_API_KEY"` for the value of the key in a string.
-
-Then to set up the database run the following command in the root folder of the project:
-
-```bash
-docker-compose up -d
-```
-
-And the database container should be running in the port 3306.
-
-Then to run the project after setting up the database use the following command:
-
-```bash
-sbt run
-```
-
-Then, the project should be running in `http://localhost:9000`. Access the application homepage `http://localhost:9000` through the browser to run the evolutions and a welcoming message from the API should be shown. After that the application should be running successfully and the endpoints should be accessible.
-
-To stop running the application use:
-
-```bash
-Ctrl/Cmd + D
-```
-
-To run the tests use the following command:
-
-```bash
-sbt test
-```
+If you want to look at the human readable version of the embeddable component please refer to this file https://github.com/rafaelfrieri1/Embeddable-component-careers/blob/main/Embeddable_Component_Careers.js.
