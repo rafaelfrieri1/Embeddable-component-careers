@@ -12,6 +12,8 @@ The following is the base code needed to use this embeddable component in your w
 </script>
 ```
 
+You should select one organizationId to enter in the variable ```your_organization_id``` for the component to retrieve the jobs of a specific ID.
+
 It should look something like this:
 
 ![image](https://user-images.githubusercontent.com/46950699/182752083-63e4ae69-e619-4699-98cb-fa94aa2757f9.png)
