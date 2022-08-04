@@ -14,7 +14,7 @@ The following is the base code needed to use this embeddable component in your w
 
 It should look something like this:
 
-Ingresar imagen aquí.
+![image](https://user-images.githubusercontent.com/46950699/182752083-63e4ae69-e619-4699-98cb-fa94aa2757f9.png)
 
 ## How to style
 
@@ -92,7 +92,7 @@ One CSS example to style this componente might be the following:
 
 And it should look something like this:
 
-Ingresar imagen aquí
+![image](https://user-images.githubusercontent.com/46950699/182752015-855ab48d-d317-43f0-8f07-3a11e2c90568.png)
 
 ## Source code
 
