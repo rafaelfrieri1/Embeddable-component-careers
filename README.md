@@ -33,7 +33,7 @@ We have the following available classes to style the code:
 
 For more context on what those classes mean look at the #careers design file.
 
-One CSS example to style this componente might be the following:
+One CSS example to style this component might be the following:
 
 ```css
 .job-list {
